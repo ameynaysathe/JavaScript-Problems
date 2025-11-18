@@ -1,0 +1,106 @@
+✅ 50 JavaScript Practice Problems
+🟢 Beginner (1–15)
+
+Reverse a string.
+
+Check if a number is even or odd.
+
+Find the largest of three numbers.
+
+Count vowels in a string.
+
+Sum all numbers in an array.
+
+Find the factorial of a number.
+
+Check if a character is uppercase or lowercase.
+
+Convert Celsius to Fahrenheit.
+
+Find the minimum number in an array.
+
+Print a multiplication table of a number.
+
+Check if a number is prime.
+
+Find the largest word in a sentence.
+
+Remove spaces from a string.
+
+Count digits in a number.
+
+Merge two arrays.
+
+🟡 Intermediate (16–35)
+
+Remove duplicates from an array.
+
+Check if a string is a palindrome.
+
+Find the second largest number in an array.
+
+Flatten a nested array of any depth.
+
+Count occurrences of each element in an array.
+
+Find the sum of digits of a number.
+
+Sort an array without using .sort().
+
+Print Fibonacci series up to n terms.
+
+Find intersection of two arrays.
+
+Find missing number from 1 to n.
+
+Rotate an array left or right by k steps.
+
+Find the longest substring without repeating characters.
+
+Reverse words in a sentence.
+
+Chunk an array into groups of k.
+
+Find unique values in an array (values that appear once).
+
+Remove falsy values from an array.
+
+Implement a function that returns a random integer between two numbers.
+
+Find all pairs in an array that sum to a target.
+
+Convert an object's keys to an array.
+
+Swap two variables without using a third variable.
+
+🔵 Advanced (36–50)
+
+Implement your own Array.prototype.myMap().
+
+Implement your own Array.prototype.myFilter().
+
+Implement your own Array.prototype.myReduce().
+
+Deep clone an object manually (no JSON).
+
+Write your own debounce function.
+
+Write your own throttle function.
+
+Create an EventEmitter class with on(), off(), emit().
+
+Implement a promise-based delay (wait(1000)).
+
+Convert callback-based function into a Promise (promisify).
+
+Implement a simple LRU Cache.
+
+Create a function similar to _.get(obj, path).
+
+Implement memoization for a function.
+
+Build a tiny calculator using functions and closures.
+
+Implement a function that checks deep equality of two objects.
+
+Make a curry function (curry(fn)).
